@@ -1,0 +1,11 @@
+.tshitrconteinar img{
+    height:250px;
+    padding: 10px;
+
+}
+.tshitrconteinar{
+   border: 2px solid skyblue;
+   border-radius: 10px;
+   gap: 10px;
+   
+}
